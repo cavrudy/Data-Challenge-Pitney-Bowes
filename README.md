@@ -3,6 +3,7 @@
 Creating predictive models and statistical data using Python for Pitney Bowes return volume parcels during the next five business days.
 
 Business problem:
+
 Pitney Bowes FDR (Fullilment, Delivery & Returns) line of business allows retailers to easily deliver parcels to customers and  facilitate the return of merchandise If Customers are unsatisfied with products they can simply drop off the return parcels at any USPS (United States Post Office) Office, and the package will get transported to the closest Pitney Bowes FDR hub to be inducted into the Pitney Bowes carrier network. 
 Once inducted into our network, the parcel gets transported from hub to hub (the Pitney Bowes FDR network) to the merchant’s warehouse.  One sss
 One major requirement of these merchant’s is for Pitney Bowes to provide a forecast of the expected number of parcels that will be delivered at their warehouses. This helps predict the number of resources required to unload parcels as well as where and how to store it. 
